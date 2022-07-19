@@ -1,0 +1,8 @@
+ping the text block
+d = im2[y:y + h, x:
+
+the file in append
+
+open("box.txt". "a’
+
+
